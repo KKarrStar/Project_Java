@@ -1,5 +1,3 @@
-package project_Java;
-
 import javafx.event.EventHandler;
 import javafx.fxml.Initializable;
 import javafx.scene.Node;

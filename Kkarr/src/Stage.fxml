@@ -16,7 +16,7 @@
             <DropShadow />
          </effect>
          <image>
-            <Image url="@../../../../Desktop/자살징징이.png" />
+            <Image url="@../../../../../../Desktop/자살징징이.png" />
          </image>
       </ImageView>
    </children>
